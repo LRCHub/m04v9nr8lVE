@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "水曜日を休みにして",
+  "base_artist": "EO",
+  "createdAt": "2026-03-04T04:48:27.378643Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水曜日を休みにして (feat. 鏡音リン)",
+      "artist": "EO",
+      "has_synced": false,
+      "path": "select/pl_01_水曜日を休みにして_(feat._鏡音リン)_EO.txt"
+    }
+  ]
+}
